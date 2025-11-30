@@ -51,4 +51,4 @@ This project is open-sourced under the MIT License - see the [LICENSE](LICENSE) 
 
 ## Author
 
-This project is built by [Deepu K Sasidharan](https://github.com/deepu105) and other contributors.
+This project is built by [Fenrir-Tech-Ops](https://github.com/Fenrir-Tech-Ops) and other contributors.
